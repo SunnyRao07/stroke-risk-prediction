@@ -100,13 +100,12 @@ The top predictors identified by the **Random Forest** model:
 
 ---
 
-## 🏆 Author Contribution  
-This was an individual project completed by **Sunny Rao Karegam** (ID: 20058107) as part of the **MSc. Data Analytics** program.  
-
-**Key contributions include:**  
+## 🏗 Project Highlights  
+This project showcases the complete data science workflow for stroke risk prediction, including:  
 ✔️ Data Preprocessing & Cleaning  
-✔️ Model Development & Evaluation  
-✔️ Report & Presentation Preparation  
-✔️ Model Interpretation & Documentation  
+✔️ Exploratory Data Analysis and Feature Engineering  
+✔️ Model Development and Evaluation (Decision Tree, Random Forest)  
+✔️ Report, Visualization, and Documentation  
+
 
 ---
